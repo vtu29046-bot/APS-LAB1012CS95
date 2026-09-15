@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0901-online-stock-span) |
+| [1603-design-parking-system](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0946-validate-stack-sequences) |
+| [1603-design-parking-system](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0523-continuous-subarray-sum) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
