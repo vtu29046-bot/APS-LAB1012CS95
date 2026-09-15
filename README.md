@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0523-continuous-subarray-sum) |
+| [0705-design-hashset](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0946-validate-stack-sequences) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/1472-design-browser-history) |
 ## Stack
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0523-continuous-subarray-sum) |
+| [0705-design-hashset](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/1396-design-underground-system) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0901-online-stock-span) |
 | [1396-design-underground-system](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/1472-design-browser-history) |
@@ -181,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vtu29046-bot/APS-LAB1012CS95/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
